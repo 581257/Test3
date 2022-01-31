@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="info">Dette er en test app </string>
+    <string name="description">shocked cat</string>
+</resources>
